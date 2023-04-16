@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Linear Data Structures": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
